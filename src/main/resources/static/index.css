@@ -1,0 +1,39 @@
+
+#grad{
+    height: 1400px;
+    background-image: linear-gradient(to top , yellow,orange,red);
+    text-align: center;
+    
+    
+}
+
+button{
+    margin: 5%;
+}
+#submit{
+    width: 80px;
+    height:20px;
+    background-color: lightgrey;
+    margin-left: 47%;
+    border: 2px solid black;
+
+    
+}
+#submit:hover{
+    background-color: greenyellow;
+
+}
+a{
+    text-decoration: none;
+}
+img{
+    height: 30%;
+    width:30%;
+    margin-left: 38%;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    
+}
